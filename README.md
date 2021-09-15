@@ -1,5 +1,7 @@
 # Extract hidden text in text based files.
 
+A script to help decode the 0 width space technique of steganography.
+
 ## Usage
 
 ```
